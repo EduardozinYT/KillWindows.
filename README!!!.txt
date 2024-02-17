@@ -1,3 +1,3 @@
-Esse malwer apaga o system32 e reinicia o PC seu pc n�o ligara mais
+Esse virus é muito perigoso ele apaga arquivos da pasta system32 mata o explorer.exe reinicia o PC e reparo automatico então não execute em um PC real não me rezponsabilizo por qualquer dano causado a maquina
 Criador:
 @Eduardozin_YT
