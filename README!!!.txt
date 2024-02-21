@@ -1,3 +1,3 @@
-Esse virus é muito perigoso ele apaga arquivos da pasta system32 mata o explorer.exe reinicia o PC e reparo automatico então não execute em um PC real não me rezponsabilizo por qualquer dano causado a maquina obrigado pela atenção
+Esse virus é educativo  ele apaga arquivos da pasta system32 então não execute em um PC real não me rezponsabilizo por qualquer dano a maquina
 Criador:
 @Eduardozin_YT
